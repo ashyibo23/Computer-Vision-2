@@ -1,4 +1,4 @@
-# computer-vision
+# Computer-Vision
 Mid-Level Computer Vision on MATLAB
 
 This assignment provides the opportunity to design and implement a computer vision systems that can solve the correspondence problem. Each pair of images shows the same scene from a different viewpoint and/or under different lighting conditions or taken with different camera settings. Given the coordinates of locations in the first image of the pair, your code needs to find the corresponding locations in the second image of the pair.
